@@ -1,5 +1,5 @@
 # ECG-Based Photo Lock HCI Project
-================================
+
 
 ## Overview
 -----------
