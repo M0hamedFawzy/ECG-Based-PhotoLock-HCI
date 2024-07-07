@@ -67,10 +67,8 @@ Ensure the following Python libraries are installed:
 
 ## Author
 ---------
-\[Your Name\]
+\[Mohamed Fawzy\]
 
-## License
------------
-This project is licensed under \[License Name\].
+
 
  
